@@ -1,5 +1,5 @@
 # BeeMotionMini
-Documentation for the Bee Motion Mini
+
 
 This is the repo for all things Bee Motion Mini. A ESP32-C3 microcontroller with a built in PIR motion sensor!
 
